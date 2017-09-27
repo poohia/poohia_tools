@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>stop.png</file>
+        <file>play.png</file>
+        <file>info.png</file>
+        <file>icon.png</file>
+        <file>defaultsoftware.png</file>
+        <file>internet.png</file>
+        <file>dossier.png</file>
+        <file>service.png</file>
+        <file>configuration.png</file>
+        <file>exit.png</file>
+    </qresource>
+</RCC>
